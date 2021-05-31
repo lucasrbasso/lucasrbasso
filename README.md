@@ -21,6 +21,7 @@ Hi there, I'm a **computer engineering** student and Web developer!
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=383836&style=flat-square"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-NodeJs-339933?logo=node-dot-js&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-NextJs-000000?logo=next-dot-js&logoColor=white&style=flat-square"/>
 </p>
