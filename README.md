@@ -15,7 +15,7 @@ Hi there, I'm a **computer engineering** student and Web developer!
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasrbasso&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Stacks:
+### My Stacks and techs:
 
 <p>
   <img src="https://img.shields.io/badge/-ReactJs-383836?logo=react&logoColor=white&style=flat-square"/>
@@ -26,4 +26,5 @@ Hi there, I'm a **computer engineering** student and Web developer!
   <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square"/>
 </p>
