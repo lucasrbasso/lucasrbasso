@@ -13,7 +13,7 @@ Hi there, I'm a **computer engineering** student and Web developer!
 
 
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasrbasso&theme=react)](https://github.com/lucasrbasso/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasrbasso&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Stacks:
 
