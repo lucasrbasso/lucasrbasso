@@ -2,16 +2,11 @@
 
 <img align="right" width="29%" src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" alt="code" />
 
-Hi there, I'm a **computer engineering** student and Web developer!
-
+Hi there, I'm an engineer in the financial services world!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Basso-383836?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrbasso/)](https://www.linkedin.com/in/lucasrbasso/)
 
 ### Activity:
-
-
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasrbasso&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Stacks and techs:
 
